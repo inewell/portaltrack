@@ -1,0 +1,25 @@
+{
+  "name": "portaltrack",
+  "version": "1.0.0",
+  "description": "Manages and tracks college application web portals all in one place",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inewell/portaltrack.git"
+  },
+  "author": "Isaac Newell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inewell/portaltrack/issues"
+  },
+  "homepage": "https://github.com/inewell/portaltrack",
+  "dependencies": {
+    "ejs": "2.5.7",
+    "express": "4.16.2",
+    "mongodb": "3.0.4",
+    "path": "0.12.7"
+  }
+}
